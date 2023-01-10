@@ -1,0 +1,77 @@
+
+        *{
+            padding: 0px;
+            margin: 0px;
+        }
+        .nav{
+            background-color: rgb(9, 9, 107);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            text-align: center;
+            height: 50px;
+        }
+        .fb{
+            color: white;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .fbentry{
+            display: flex;
+            color: white;
+            gap: 30px;
+        }
+        .emailphone,.pass{
+            height: 20px;
+        }
+        .login{
+            background-color: rgb(12, 12, 124);
+            border: 1px solid rgb(9, 9, 75);
+            color: white;
+            width: 100px;
+            height: 40px;
+        }
+        .main{
+            display: flex;
+            justify-content: space-around;
+                   }
+       h1,h2{
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                   }
+        .text{
+            color: gray;
+        }
+    .fname,.lname{
+        height: 30px;
+        width: 190;
+        background-color: white;
+        border: 1px solid black;
+        color: gray;
+    }
+    .email2,.remail,.pas{
+        height: 30px;
+        width: 400px;
+        background-color: white;
+        border: 1px solid black;
+        color: gray;
+    }
+    .midmain1,.choice{
+        display: flex;
+        justify-content: space-around;
+    }
+    .date{
+        
+        height: 30px;
+        width: 120px;
+       
+    }
+    .midmain12{
+        color: rgb(12, 12, 124);
+    }
+    .signup{
+        height: 40px;
+        width: 150px;
+        color: white;
+        background-color: green;
+        border: 1px solid green
+    }
+    
